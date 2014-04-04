@@ -6,7 +6,7 @@ package com.stepsoln.ws.server;
 import javax.xml.ws.Endpoint;
 
 /**
- * Class to Publish NameService Web service.
+ * Class to Publish Web service.
  * 
  * @author SwapnilB
  * 

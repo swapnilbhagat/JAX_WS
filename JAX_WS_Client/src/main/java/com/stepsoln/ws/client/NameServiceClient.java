@@ -9,7 +9,7 @@ import javax.xml.ws.Service;
 import com.stepsoln.ws.server.NameService;
 
 /**
- * Client to read/invoke Published NameService.
+ * Client to test WebService using JAX-WS.
  * 
  * @author SwapnilB
  * 
